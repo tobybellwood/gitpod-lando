@@ -18,7 +18,4 @@ vscode:
     - esbenp.prettier-vscode
     - stylelint.vscode-stylelint
     - tombonnike.vscode-status-bar-format-toggle
-    - usernamehw.errorlens
-    - whatwedo.twig
-    - marcostazi.vs-code-drupal
     - mhutchie.git-graph
